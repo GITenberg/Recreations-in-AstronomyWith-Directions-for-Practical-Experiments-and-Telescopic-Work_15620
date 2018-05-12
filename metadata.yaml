@@ -1,0 +1,30 @@
+_repo: Recreations-in-AstronomyWith-Directions-for-Practical-Experiments-and-Telescopic-Work_15620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warren, Henry White
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '6306'
+    url: http://www.gutenberg.org/2009/agents/6306
+    wikipedia: http://discuss.iliff.edu/archives/warren/
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+title: 'Recreations in Astronomy
+
+  With Directions for Practical Experiments and Telescopic Work'
+url: http://www.gutenberg.org/ebooks/15620
