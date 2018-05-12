@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6306
     wikipedia: http://discuss.iliff.edu/archives/warren/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15620#Recreations-in-AstronomyWith-Directions-for-Practical-Experiments-and-Telescopic-Work
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2005-04-14'
 gutenberg_type: Text
